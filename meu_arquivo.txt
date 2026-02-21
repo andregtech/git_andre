@@ -1,0 +1,21 @@
+* IDENTIFICAÇÃO
+Nome do aluno:
+André Willamy Dos Santos Moraes.
+
+* SOBRE
+Arquivo meu_arquivo.txt
+Criado em Resposta a Atividade "Introdução ao Git e GitHub" da Seção "Exercícios de HTML e CSS".
+
+* ATIVIDADES EXERCIDAS:
+Criação de uma conta github;
+Download e Instalação do Git no Sistema Operacional Windows;
+Verificação de Instação no Terminal Windows;
+Configuração Bash de Usuário e Email;
+Criação de um Repositório Remoto no GitHub;
+Criação de um Repositório Local;
+Clonando o Repositório;
+Enviando (push) o arquivo meu_arquivo.txt local para o acesso remoto no GitHub;
+Enviado o link do repositório GitHub na Plataforma Geração Tech.
+
+* DATA DE CRIAÇÃO
+Arquivo criado em 21 de Fevereiro de 2026.
